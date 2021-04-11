@@ -1,2 +1,3 @@
 # act311Project
-Repo for act 311 web dev project 
+    # Personal ACT 311 project repository. 
+    # Project prototyping (Vue,Firebase,etc.) ---[04/11/21]
